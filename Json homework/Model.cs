@@ -8,6 +8,7 @@ namespace Json_homework
 {
     class Model
     {
+
     }
 
   public  class Post
